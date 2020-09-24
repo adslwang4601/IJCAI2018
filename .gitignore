@@ -1,6 +1,6 @@
-feature_engineering/*.ipynb
 data/
 cache_pkl/
 features/
 result/
 model/
+src/
